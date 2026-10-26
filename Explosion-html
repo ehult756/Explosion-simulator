@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+    <html lang eng>
+        <title>Explosions</title>
+        <body>
+            <heading></heading>
+            <!--- Basic ideas: build a program that simulates explosions
+            ideas: 
+              * change size of explosion
+              * change type of explosive
+              * change location of explosion on screen
+              * explosions can go off at different times
+              * realistic demolitions <-- end result
+            
+            -->
+
+            <script src="explosion.js"></script>
+        </body>
+    </html>
+</DOCTYPE>
